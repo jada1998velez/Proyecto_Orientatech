@@ -1,0 +1,62 @@
+@import "~/src/scss/index.scss";
+
+.container {
+    height: 100vh;
+    max-height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.topBar{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem;
+    
+    > a {
+        font-size: 2rem;
+        margin: 0;
+        color: $default-blue;
+    }
+
+    > a:hover{
+        color: $medium-purple;
+    }
+}
+
+.blockLeft{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.blockRight{
+    background-image: url("/img/sign-wallpaper.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    width: 50%;
+}
+
+@media (max-width: 768px) {
+    .container {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+
+    }
+    
+    .blockLeft {
+        width: 100%;
+    }
+
+    .blockRight {
+        display: none; /* Ocultar la imagen de fondo en dispositivos móviles */
+    }
+}

@@ -1,0 +1,38 @@
+@import "~/src/scss/index.scss";
+
+.topBar{
+    position: fixed;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 1rem 5rem;
+    z-index: 5;
+    background-color: $default-blue;
+
+    a:hover{
+        color: $light-blue;
+    
+    }
+}
+
+.left{
+    color: $white;
+    font-size: 2rem;
+    width: 20%;
+}
+
+.center{
+    color: $white;
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.right{
+    color: $white;
+    width: 20%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}

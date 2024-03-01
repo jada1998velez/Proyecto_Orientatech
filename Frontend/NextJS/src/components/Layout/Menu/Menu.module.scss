@@ -1,0 +1,55 @@
+@import "~src/scss/index.scss";
+
+.categories{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    gap: 2rem;
+    
+    > a {
+        color: $white;
+        font-size: 1.2rem;
+
+        &:hover{
+            color: $light-blue;
+        }
+    }
+    @media (max-width: 900px) {
+        > a, button {
+            display: none;
+        }
+
+        > span {
+            display: inline-block;
+            width: 30px;
+            height: 30px;
+            background-size: contain;
+            background-repeat: no-repeat;
+            background-position: center;
+            cursor: pointer;
+        }
+    }
+}
+.products{
+    background-color: transparent;
+    border: none;
+    color: $white;
+    cursor: pointer;
+    padding: 0;
+    font-size: 1.2rem;
+    &:hover{
+        color: $dark-blue;
+    }
+}
+
+.panel{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    justify-content: center;
+    position: absolute;
+    top: 5.3rem;
+    background-color: $white;
+    border: 1px solid $dark-blue;
+    padding: 2rem;
+}

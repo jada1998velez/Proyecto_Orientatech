@@ -1,0 +1,109 @@
+@import "~/src/scss/index.scss";
+
+.formContainer{
+    display: flex;
+    flex-direction: column;
+    // justify-content: center;
+    align-items: center;
+    // width: 80%;
+}
+
+.formStyle{
+    display: flex;
+    flex-direction: column;
+    width: 60rem;
+    // justify-content: center;
+    // margin: 0 20% 0 20%;
+    box-shadow: 0 0 10px 0 rgba(0,0,0,0.2);
+    border-radius: 2rem;
+    padding: 3rem 10% 3rem 10%;
+    height: 45rem;
+    // width: 40rem;
+}
+
+.buttons {
+  position: sticky;
+  bottom: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  background-color: white;
+  z-index: 1; 
+  flex-shrink: 0;  
+}
+
+.buttons div {
+  display: flex;
+}
+
+.buttons div:first-child {
+  margin-right: auto;  
+}
+
+.questionContainer{
+    height: 15rem;
+    // display: flex;
+    margin-bottom: 2rem;
+}
+  
+.radioColumn{
+    display: flex;
+    flex-direction: column;
+}
+
+.pageTwoButtons{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0 30%;
+}
+
+.nextButtonContainer{
+    width: 100%;
+    display: flex;
+    justify-content: right;
+    // padding-right: 30%;
+}
+
+.nextButton{
+    width: 10rem;
+    margin: 0;
+}
+
+.submitButtonContainer{
+    width: 100%;
+    display: flex;
+    justify-content: right;
+    // padding-right: 30%;
+}
+
+.submitButton{
+    width: 10rem;
+    margin: 0;
+}
+
+.currentPage{
+    display: flex;
+    justify-content: center;
+    margin: 0 30%;
+    color: rgb(81, 81, 81);
+    margin-bottom: 2rem;
+}
+
+.predictionContainer{
+    margin: 2rem 0 2rem 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    // width: 40rem;
+}
+
+.textoPrediccion{
+    font-size: 2rem;
+}
+
+.resultadoPrediccion{
+    font-size: 4rem;
+}

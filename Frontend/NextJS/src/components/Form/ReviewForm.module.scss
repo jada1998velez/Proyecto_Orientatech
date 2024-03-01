@@ -1,0 +1,63 @@
+/* ReviewForm.module.scss */
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: #f8f8f8;
+}
+
+.title {
+  text-align: center;
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+}
+
+.questionList {
+  margin-top: 20px;
+}
+
+.questionItem {
+  padding: 15px;
+  border-bottom: 1px solid #ddd;
+}
+
+.questionHeader {
+  font-weight: bold;
+  font-size: 1.2rem;
+  margin-bottom: 5px;
+}
+
+.questionDescription {
+  color: #555;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.backButton,
+.submitButton {
+  padding: 10px 20px;
+  font-size: 1rem;
+}
+
+.backButton {
+  background-color: #ccc;
+  color: #333;
+}
+
+.submitButton {
+  background-color: #5cb85c;
+  color: #fff;
+}
+
+.backButton:hover,
+.submitButton:hover {
+  cursor: pointer;
+}
+
