@@ -1,0 +1,65 @@
+Cod.,Módulo,H.SEM.,H.TOT.,Fuente,Posición,Salida
+0484,Bases de Datos,6,192,DAM,,
+0487,Entornos de desarrollo,3,96,DAM,,
+0493,Formación y orientación laboral,3,96,DAM,,
+0373,Lenguajes de marcas y sistemas de gestión de información,4,128,DAM,,
+0485,Programación,8,256,DAM,,
+0483,Sistemas informáticos,6,192,DAM,,
+0486,Acceso a datos,5,105,DAM,,
+0488,Desarrollo de interfaces,7,147,DAM,,
+0494,Empresa e iniciativa emprendedora,4,84,DAM,,
+0495,Formación en centros de trabajo,0,370,DAM,,
+0000,Horas de libre configuración,3,63,DAM,,
+0490,Programación de servicios y procesos,3,63,DAM,,
+0489,Programación multimedia y dispositivos móviles,4,84,DAM,,
+0492,Proyecto de desarrollo de aplicaciones multiplataforma,0,40,DAM,,
+0491,Sistemas de gestión empresarial,4,84,DAM,,
+0380,Formación y orientación laboral,3,96,ASIR,,
+0371,Fundamentos de hardware,3,96,ASIR,,
+0372,Gestión de bases de datos,6,192,ASIR,,
+0369,Implantación de sistemas operativos,8,256,ASIR,,
+0373,Lenguajes de marcas y sistemas de gestión de información,4,128,ASIR,,
+0370,Planificación y administración de redes,6,192,ASIR,,
+0374,Administración de sistemas operativos,6,126,ASIR,,
+0377,Administración de sistemasa gestores de bases de datos,3,63,ASIR,,
+0381,Empresa e iniciativa emprendedora,4,84,ASIR,,
+0382,Formación en centros de trabajo,0,370,ASIR,,
+0000,Horas de libre configuración,3,63,ASIR,,
+0376,Implantación de aplicaciones web,4,84,ASIR,,
+0379,Proyecto de administración de sistemas informáticos en red,0,40,ASIR,,
+0378,Seguridad y alta disponibilidad,4,84,ASIR,,
+0375,Servicios de red e Internet,6,126,ASIR,,
+0484,Bases de Datos,6,192,DAW,,
+0487,Entornos de desarrollo,3,96,DAW,,
+0617,Formación y orientación laboral,3,96,DAW,,
+0373,Lenguajes de marcas y sistemas de gestión de información,4,128,DAW,,
+0485,Programación,8,256,DAW,,
+0483,Sistemas informáticos,6,192,DAW,,
+0612,Desarrollo web en entorno cliente,6,126,DAW,,
+0613,Desarrollo web en entorno servidor,8,168,DAW,,
+0614,Despliegue de aplicaciones web,3,63,DAW,,
+0615,Diseño de interfaces WEB,6,126,DAW,,
+0618,Empresa e iniciativa emprendedora,4,84,DAW,,
+0619,Formación en centros de trabajo,0,370,DAW,,
+0000,Horas de libre configuración,3,63,DAW,,
+0616,Proyecto de desarrollo de aplicaciones web,0,40,DAW,,
+,,,,,1,ASIR
+,,,,,a,Técnico en administración de sistemas.
+,,,,,b,Responsable de informática.
+,,,,,c,Técnico en servicios de Internet.
+,,,,,d,Técnico en servicios de mensajería electrónica.
+,,,,,e,Personal de apoyo y soporte técnico.
+,,,,,f,Técnico en teleasistencia.
+,,,,,g,Técnico en administración de base de datos.
+,,,,,h,Técnico de redes.
+,,,,,i,Supervisor de sistemas.
+,,,,,j,Técnico en servicios de comunicaciones.
+,,,,,k,Técnico en entornos web.
+,,,,,2,DAW
+,,,,,a,Programador Web.
+,,,,,b,Programador Multimedia.
+,,,,,c,Desarrollador de aplicaciones en entornos Web.
+,,,,,3,DAM
+,,,,,a,Desarrollar aplicaciones informáticas para la gestión empresarial y de negocio.
+,,,,,b,Desarrollar aplicaciones de propósito general.
+,,,,,c,Desarrollar aplicaciones en el ámbito del entretenimiento y la informática móvil

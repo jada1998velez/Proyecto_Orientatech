@@ -1,0 +1,150 @@
+edad;sexo;cp;modalidad_deseada;estudios_acceso;motivo_eleccion;empresa_o_autonomo;fp_estudidada
+21;Hombre             ;29700;Híbrido   ;Bachillerato                     ;Especialización profesional;Emprender por mi cuenta  ;ASIR
+19;Hombre             ;29700;Remoto    ;Ciclo Formativo Grado Medio      ;Especialización profesional;Trabajar para una empresa;ASIR
+25;Hombre             ;29700;Remoto    ;Bachillerato                     ;Especialización profesional;Emprender por mi cuenta  ;ASIR
+21;Otro               ;29700;Presencial;Bachillerato                     ;Especialización profesional;Trabajar para una empresa;ASIR
+39;Otro               ;29010;Híbrido   ;Ciclo Formativo Grado Medio      ;Especialización profesional;Emprender por mi cuenta  ;ASIR
+22;Hombre             ;29700;Remoto    ;Ciclo Formativo Grado Medio      ;Continuar mi formación     ;Emprender por mi cuenta  ;ASIR
+22;Hombre             ;29740;Remoto    ;Bachillerato                     ;Salida laboral             ;Trabajar para una empresa;ASIR
+21;Hombre             ;29718;Híbrido   ;Bachillerato                     ;Especialización profesional;Trabajar para una empresa;ASIR
+25;Hombre             ;29700;Híbrido   ;Bachillerato                     ;Especialización profesional;Emprender por mi cuenta  ;ASIR
+21;Hombre             ;29700;Remoto    ;Ciclo Formativo Grado Medio      ;Continuar mi formación     ;Trabajar para una empresa;ASIR
+33;Hombre             ;14512;Híbrido   ;Bachillerato                     ;Especialización profesional;Trabajar para una empresa;ASIR
+24;Hombre             ;29730;Presencial;Ciclo Formativo Grado Medio      ;Especialización profesional;Trabajar para una empresa;ASIR
+21;Hombre             ;29738;Remoto    ;Ciclo Formativo Grado Medio      ;Salida laboral             ;Emprender por mi cuenta  ;ASIR
+18;Mujer              ;29010;Presencial;Bachillerato                     ;Especialización profesional;Trabajar para una empresa;ASIR
+20;Hombre             ;29718;Remoto    ;Ciclo Formativo Grado Medio      ;Salida laboral             ;Trabajar para una empresa;ASIR
+24;Hombre             ;29753;Presencial;Bachillerato                     ;Especialización profesional;Trabajar para una empresa;ASIR
+20;Hombre             ;29700;Remoto    ;Bachillerato                     ;Especialización profesional;Trabajar para una empresa;ASIR
+18;Hombre             ;29750;Remoto    ;Ciclo Formativo Grado Medio      ;Salida laboral             ;Trabajar para una empresa;ASIR
+18;Hombre             ;29770;Remoto    ;Ciclo Formativo Grado Medio      ;Continuar mi formación     ;Emprender por mi cuenta  ;ASIR
+24;Hombre             ;29780;Remoto    ;Bachillerato                     ;Salida laboral             ;Trabajar para una empresa;ASIR
+18;Mujer              ;29740;Híbrido   ;Bachillerato                     ;Especialización profesional;Trabajar para una empresa;ASIR
+20;Hombre             ;29700;Presencial;Prueba de acceso a Grado Superior;Especialización profesional;Trabajar para una empresa;ASIR
+19;Hombre             ;29740;Híbrido   ;Ciclo Formativo Grado Medio      ;Continuar mi formación     ;Trabajar para una empresa;ASIR
+18;Hombre             ;29718;Híbrido   ;Ciclo Formativo Grado Medio      ;Continuar mi formación     ;Trabajar para una empresa;ASIR
+20;Mujer              ;29740;Híbrido   ;Prueba de acceso a Grado Superior;Salida laboral             ;Trabajar para una empresa;ASIR
+27;Hombre             ;29700;Remoto    ;Prueba de acceso a Grado Superior;Continuar mi formación     ;Trabajar para una empresa;ASIR
+18;Hombre             ;29749;Híbrido   ;Bachillerato                     ;Salida laboral             ;Trabajar para una empresa;ASIR
+19;Hombre             ;29700;Presencial;Ciclo Formativo Grado Medio      ;Especialización profesional;Trabajar para una empresa;ASIR
+18;Mujer              ;29700;Híbrido   ;Bachillerato                     ;Salida laboral             ;Trabajar para una empresa;ASIR
+22;Hombre             ;29749;Híbrido   ;Ciclo Formativo Grado Medio      ;Salida laboral             ;Trabajar para una empresa;ASIR
+19;Hombre             ;29719;Remoto    ;Bachillerato                     ;Especialización profesional;Trabajar para una empresa;ASIR
+22;Hombre             ;29700;Híbrido   ;Bachillerato                     ;Salida laboral             ;Trabajar para una empresa;ASIR
+19;Hombre             ;29700;Presencial;Ciclo Formativo Grado Medio      ;Salida laboral             ;Trabajar para una empresa;ASIR
+18;Hombre             ;29690;Remoto    ;Bachillerato                     ;Especialización profesional;Trabajar para una empresa;ASIR
+22;Hombre             ;29751;Remoto    ;Bachillerato                     ;Continuar mi formación     ;Trabajar para una empresa;ASIR
+21;Hombre             ;29570;Híbrido   ;Ciclo Formativo Grado Medio      ;Salida laboral             ;Emprender por mi cuenta  ;ASIR
+34;Hombre             ;18600;Remoto    ;Ciclo Formativo Grado Medio      ;Salida laboral             ;Trabajar para una empresa;ASIR
+23;Hombre             ;18600;Híbrido   ;Bachillerato                     ;Salida laboral             ;Trabajar para una empresa;ASIR
+22;Hombre             ;18600;Híbrido   ;Bachillerato                     ;Especialización profesional;Emprender por mi cuenta  ;ASIR
+31;Hombre             ;18600;Presencial;Ciclo Formativo Grado Medio      ;Salida laboral             ;Trabajar para una empresa;ASIR
+21;Hombre             ;18680;Híbrido   ;Ciclo Formativo Grado Medio      ;Salida laboral             ;Trabajar para una empresa;ASIR
+21;Hombre             ;18730;Híbrido   ;Ciclo Formativo Grado Medio      ;Especialización profesional;Emprender por mi cuenta  ;ASIR
+18;Hombre             ;18600;Remoto    ;Bachillerato                     ;Especialización profesional;Trabajar para una empresa;ASIR
+24;Hombre             ;18690;Remoto    ;Bachillerato                     ;Salida laboral             ;Trabajar para una empresa;ASIR
+23;Hombre             ;18658;Híbrido   ;Ciclo Formativo Grado Medio      ;Salida laboral             ;Trabajar para una empresa;ASIR
+18;Hombre             ;18600;Remoto    ;Bachillerato                     ;Salida laboral             ;Trabajar para una empresa;ASIR
+18;Hombre             ;18600;Presencial;Ciclo Formativo Grado Medio      ;Salida laboral             ;Trabajar para una empresa;ASIR
+20;Hombre             ;18600;Presencial;Bachillerato                     ;Especialización profesional;Trabajar para una empresa;ASIR
+19;Hombre             ;18600;Presencial;Bachillerato                     ;Continuar mi formación     ;Trabajar para una empresa;ASIR
+21;Hombre             ;11520;Remoto    ;Ciclo Formativo Grado Medio      ;Salida laboral             ;Trabajar para una empresa;ASIR
+20;Hombre             ;18720;Híbrido   ;Bachillerato                     ;Continuar mi formación     ;Trabajar para una empresa;ASIR
+21;Hombre             ;18600;Híbrido   ;Ciclo Formativo Grado Medio      ;Continuar mi formación     ;Trabajar para una empresa;ASIR
+20;Hombre             ;18600;Híbrido   ;Bachillerato                     ;Salida laboral             ;Trabajar para una empresa;ASIR
+26;Hombre             ;18690;Remoto    ;Bachillerato                     ;Salida laboral             ;Trabajar para una empresa;ASIR
+18;Hombre             ;18600;Presencial;Ciclo Formativo Grado Medio      ;Continuar mi formación     ;Trabajar para una empresa;ASIR
+28;Hombre             ;29700;Híbrido   ;Bachillerato                     ;Continuar mi formación     ;Emprender por mi cuenta  ;ASIR
+19;Hombre             ;29719;Híbrido   ;Bachillerato                     ;Salida laboral             ;Trabajar para una empresa;ASIR
+25;Hombre             ;29712;Híbrido   ;Otros                            ;Salida laboral             ;Trabajar para una empresa;ASIR
+19;Hombre             ;29700;Presencial;Ciclo Formativo Grado Medio      ;Continuar mi formación     ;Trabajar para una empresa;ASIR
+29;Otro               ;29790;Remoto    ;Ciclo Formativo Grado Medio      ;Salida laboral             ;Trabajar para una empresa;ASIR
+19;Hombre             ;29712;Híbrido   ;Ciclo Formativo Grado Medio      ;Salida laboral             ;Trabajar para una empresa;ASIR
+21;Hombre             ;29700;Remoto    ;Bachillerato                     ;Salida laboral             ;Emprender por mi cuenta  ;ASIR
+27;Hombre             ;29740;Remoto    ;Bachillerato                     ;Salida laboral             ;Trabajar para una empresa;ASIR
+24;Hombre             ;29700;Híbrido   ;Prueba de acceso a Grado Superior;Continuar mi formación     ;Trabajar para una empresa;ASIR
+23;Hombre             ;29740;Híbrido   ;Bachillerato                     ;Especialización profesional;Trabajar para una empresa;ASIR
+39;Mujer              ;29700;Híbrido   ;Bachillerato                     ;Salida laboral             ;Trabajar para una empresa;ASIR
+27;Hombre             ;29740;Remoto    ;Otros                            ;Salida laboral             ;Trabajar para una empresa;ASIR
+19;Hombre             ;29700;Híbrido   ;Bachillerato                     ;Especialización profesional;Trabajar para una empresa;ASIR
+33;Hombre             ;29700;Híbrido   ;Bachillerato                     ;Salida laboral             ;Trabajar para una empresa;ASIR
+38;Hombre             ;29700;Híbrido   ;Prueba de acceso a Grado Superior;Salida laboral             ;Emprender por mi cuenta  ;ASIR
+20;Hombre             ;29700;Presencial;Bachillerato                     ;Salida laboral             ;Trabajar para una empresa;ASIR
+20;Hombre             ;29700;Presencial;Ciclo Formativo Grado Medio      ;Continuar mi formación     ;Trabajar para una empresa;ASIR
+20;Hombre             ;29700;Híbrido   ;Bachillerato                     ;Salida laboral             ;Trabajar para una empresa;ASIR
+21;Hombre             ;29700;Híbrido   ;Ciclo Formativo Grado Medio      ;Especialización profesional;Trabajar para una empresa;ASIR
+21;Hombre             ;29700;Híbrido   ;Bachillerato                     ;Salida laboral             ;Trabajar para una empresa;ASIR
+20;Hombre             ;29700;Híbrido   ;Bachillerato                     ;Salida laboral             ;Trabajar para una empresa;ASIR
+19;Hombre             ;29719;Híbrido   ;Ciclo Formativo Grado Medio      ;Especialización profesional;Trabajar para una empresa;ASIR
+23;Hombre             ;29010;Presencial;Prueba de acceso a Grado Superior;Salida laboral             ;Trabajar para una empresa;ASIR
+21;Hombre             ;29700;Híbrido   ;Bachillerato                     ;Continuar mi formación     ;Trabajar para una empresa;ASIR
+21;Hombre             ;29700;Remoto    ;Prueba de acceso a Grado Superior;Salida laboral             ;Trabajar para una empresa;ASIR
+22;Hombre             ;29140;Híbrido   ;Bachillerato                     ;Continuar mi formación     ;Trabajar para una empresa;DAM 
+24;Mujer              ;46920;Híbrido   ;Bachillerato                     ;Continuar mi formación     ;Trabajar para una empresa;DAM 
+25;Hombre             ;29700;Híbrido   ;Bachillerato                     ;Salida laboral             ;Emprender por mi cuenta  ;DAM 
+23;Hombre             ;13500;Remoto    ;Prueba de acceso a Grado Superior;Salida laboral             ;Emprender por mi cuenta  ;DAM 
+31;Hombre             ;29014;Híbrido   ;Otros                            ;Salida laboral             ;Trabajar para una empresa;DAM 
+20;Hombre             ;29003;Presencial;Prueba de acceso a Grado Superior;Salida laboral             ;Trabajar para una empresa;DAM 
+20;Hombre             ;29640;Híbrido   ;Otros                            ;Continuar mi formación     ;Emprender por mi cuenta  ;DAM 
+18;Hombre             ;28923;Híbrido   ;Bachillerato                     ;Continuar mi formación     ;Emprender por mi cuenta  ;DAM 
+24;Mujer              ;28921;Remoto    ;Bachillerato                     ;Salida laboral             ;Emprender por mi cuenta  ;DAM 
+20;Mujer              ;45950;Remoto    ;Bachillerato                     ;Especialización profesional;Emprender por mi cuenta  ;DAM 
+18;Hombre             ;28944;Híbrido   ;Ciclo Formativo Grado Medio      ;Salida laboral             ;Emprender por mi cuenta  ;DAM 
+20;Hombre             ;29003;Híbrido   ;Ciclo Formativo Grado Medio      ;Especialización profesional;Emprender por mi cuenta  ;DAM 
+26;Hombre             ;29718;Híbrido   ;Prueba de acceso a Grado Superior;Salida laboral             ;Trabajar para una empresa;DAM 
+20;Hombre             ;29004;Presencial;Ciclo Formativo Grado Medio      ;Continuar mi formación     ;Trabajar para una empresa;DAM 
+47;Mujer              ;29570;Remoto    ;Ciclo Formativo Grado Medio      ;Continuar mi formación     ;Trabajar para una empresa;DAM 
+27;Hombre             ;29680;Remoto    ;Prueba de acceso a Grado Superior;Continuar mi formación     ;Emprender por mi cuenta  ;DAM 
+22;Hombre             ;34003;Híbrido   ;Bachillerato                     ;Especialización profesional;Trabajar para una empresa;DAM 
+28;Mujer              ;28935;Híbrido   ;Prueba de acceso a Grado Superior;Continuar mi formación     ;Trabajar para una empresa;DAM 
+37;Hombre             ;29004;Remoto    ;Ciclo Formativo Grado Medio      ;Continuar mi formación     ;Emprender por mi cuenta  ;DAM 
+27;Hombre             ;29100;Remoto    ;Bachillerato                     ;Especialización profesional;Trabajar para una empresa;DAM 
+20;Otro               ;29130;Remoto    ;Bachillerato                     ;Salida laboral             ;Trabajar para una empresa;DAM 
+20;Hombre             ;29001;Presencial;Prueba de acceso a Grado Superior;Especialización profesional;Emprender por mi cuenta  ;DAM 
+22;Hombre             ;29700;Híbrido   ;Bachillerato                     ;Salida laboral             ;Trabajar para una empresa;DAM 
+20;Hombre             ;29580;Remoto    ;Ciclo Formativo Grado Medio      ;Salida laboral             ;Trabajar para una empresa;DAM 
+29;Hombre             ;29650;Remoto    ;Bachillerato                     ;Salida laboral             ;Trabajar para una empresa;DAM 
+28;Hombre             ;29006;Híbrido   ;Bachillerato                     ;Salida laboral             ;Trabajar para una empresa;DAM 
+25;Hombre             ;29700;Remoto    ;Bachillerato                     ;Continuar mi formación     ;Trabajar para una empresa;DAM 
+26;Hombre             ;29600;Remoto    ;Bachillerato                     ;Salida laboral             ;Trabajar para una empresa;DAM 
+18;Hombre             ;46190;Híbrido   ;Bachillerato                     ;Salida laboral             ;Trabajar para una empresa;DAM 
+18;Hombre             ;46110;Híbrido   ;Ciclo Formativo Grado Medio      ;Especialización profesional;Trabajar para una empresa;DAM 
+19;Hombre             ;46182;Remoto    ;Prueba de acceso a Grado Superior;Especialización profesional;Trabajar para una empresa;DAM 
+20;Hombre             ;29400;Remoto    ;Ciclo Formativo Grado Medio      ;Especialización profesional;Trabajar para una empresa;DAM 
+18;Hombre             ;46025;Remoto    ;Bachillerato                     ;Salida laboral             ;Emprender por mi cuenta  ;DAM 
+31;Mujer              ;29004;Híbrido   ;Bachillerato                     ;Salida laboral             ;Trabajar para una empresa;DAM 
+33;Otro               ;29001;Híbrido   ;Bachillerato                     ;Salida laboral             ;Trabajar para una empresa;DAM 
+21;Hombre             ;11370;Híbrido   ;Bachillerato                     ;Especialización profesional;Trabajar para una empresa;DAM 
+24;Hombre             ;29007;Híbrido   ;Ciclo Formativo Grado Medio      ;Continuar mi formación     ;Trabajar para una empresa;DAM 
+20;Hombre             ;18600;Híbrido   ;Prueba de acceso a Grado Superior;Salida laboral             ;Trabajar para una empresa;DAM 
+22;Hombre             ;29560;Remoto    ;Bachillerato                     ;Continuar mi formación     ;Trabajar para una empresa;DAM 
+20;Mujer              ;29400;Híbrido   ;Bachillerato                     ;Salida laboral             ;Trabajar para una empresa;DAW 
+24;Mujer              ;29650;Remoto    ;Ciclo Formativo Grado Medio      ;Salida laboral             ;Trabajar para una empresa;DAW 
+20;Mujer              ;29620;Remoto    ;Bachillerato                     ;Continuar mi formación     ;Trabajar para una empresa;DAW 
+21;Hombre             ;29591;Híbrido   ;Prueba de acceso a Grado Superior;Salida laboral             ;Trabajar para una empresa;DAW 
+25;Hombre             ;29700;Híbrido   ;Bachillerato                     ;Salida laboral             ;Trabajar para una empresa;DAW 
+19;Hombre             ;18140;Híbrido   ;Ciclo Formativo Grado Medio      ;Especialización profesional;Trabajar para una empresa;DAW 
+24;Mujer              ;29012;Híbrido   ;Otros                            ;Salida laboral             ;Trabajar para una empresa;DAW 
+21;Hombre             ;29011;Híbrido   ;Ciclo Formativo Grado Medio      ;Continuar mi formación     ;Trabajar para una empresa;DAW 
+21;Hombre             ;29010;Híbrido   ;Bachillerato                     ;Salida laboral             ;Trabajar para una empresa;DAW 
+20;Hombre             ;14012;Remoto    ;Bachillerato                     ;Especialización profesional;Trabajar para una empresa;DAW 
+19;Hombre             ;29500;Híbrido   ;Ciclo Formativo Grado Medio      ;Continuar mi formación     ;Trabajar para una empresa;DAW 
+22;Hombre             ;29620;Remoto    ;Bachillerato                     ;Salida laboral             ;Emprender por mi cuenta  ;DAW 
+21;Hombre             ;29010;Híbrido   ;Prueba de acceso a Grado Superior;Especialización profesional;Trabajar para una empresa;DAW 
+28;Hombre             ;29014;Híbrido   ;Ciclo Formativo Grado Medio      ;Especialización profesional;Trabajar para una empresa;DAW 
+18;Hombre             ;46012;Híbrido   ;Bachillerato                     ;Salida laboral             ;Emprender por mi cuenta  ;DAW 
+47;Hombre             ;29591;Remoto    ;Prueba de acceso a Grado Superior;Salida laboral             ;Trabajar para una empresa;DAW 
+27;Hombre             ;29010;Remoto    ;Ciclo Formativo Grado Medio      ;Salida laboral             ;Trabajar para una empresa;DAW 
+19;Hombre             ;18600;Híbrido   ;Bachillerato                     ;Salida laboral             ;Trabajar para una empresa;DAW 
+26;Hombre             ;18680;Híbrido   ;Otros                            ;Salida laboral             ;Trabajar para una empresa;DAW 
+28;Hombre             ;18680;Híbrido   ;Bachillerato                     ;Especialización profesional;Trabajar para una empresa;DAW 
+19;Hombre             ;18690;Presencial;Ciclo Formativo Grado Medio      ;Salida laboral             ;Trabajar para una empresa;DAW 
+18;Hombre             ;18600;Híbrido   ;Bachillerato                     ;Salida laboral             ;Trabajar para una empresa;DAW 
+18;Hombre             ;18690;Remoto    ;Bachillerato                     ;Salida laboral             ;Trabajar para una empresa;DAW 
+18;Hombre             ;18600;Híbrido   ;Prueba de acceso a Grado Superior;Continuar mi formación     ;Trabajar para una empresa;DAW 
+19;Hombre             ;18600;Híbrido   ;Ciclo Formativo Grado Medio      ;Continuar mi formación     ;Trabajar para una empresa;DAW 
+25;Hombre             ;18600;Presencial;Prueba de acceso a Grado Superior;Continuar mi formación     ;Emprender por mi cuenta  ;DAW 
+19;Hombre             ;18690;Híbrido   ;Bachillerato                     ;Especialización profesional;Trabajar para una empresa;DAW 
+20;Hombre             ;18600;Híbrido   ;Bachillerato                     ;Continuar mi formación     ;Trabajar para una empresa;DAW 
+37;Mujer              ;29014;Híbrido   ;Ciclo Formativo Grado Medio      ;Salida laboral             ;Trabajar para una empresa;DAW 
+22;Hombre             ;29590;Remoto    ;Prueba de acceso a Grado Superior;Salida laboral             ;Trabajar para una empresa;DAW 
