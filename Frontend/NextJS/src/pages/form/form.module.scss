@@ -1,0 +1,57 @@
+// FormPage.module.scss
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 72.5vh;
+    width: 100%;
+    background-color: #ffffff;
+
+  }
+
+  .title {
+    color: #0070f3;
+    font-size: 2rem;
+    margin-bottom: 3rem;
+  }
+
+  .subtitle {
+    color: #333333;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+  .buttonContainer {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .loginButton,
+  .guestButton {
+    padding: 10px 15px;
+    background-color: #0070f3;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  
+    &:hover {
+      background-color: #0050c8;
+      color: #ffffff;
+    }
+  }
+  
+  .infoButton {
+    padding: 10px 15px;
+    background-color: #ffffff;
+    color: #0070f3;
+    text-decoration: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  
+    &:hover {
+      background-color: #f3f3f3;
+    }
+  }

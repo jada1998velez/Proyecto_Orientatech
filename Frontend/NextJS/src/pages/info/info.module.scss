@@ -1,0 +1,26 @@
+@import "~src/scss/index.scss";
+
+.tabs{
+    position: relative;
+    margin-top: 50px;
+    >div{
+        >a{
+            font-size: 20px;
+            font-weight: bold;
+        }
+    }
+}
+
+.containerForms{
+    margin-top: 50px;
+}
+
+.salidas{
+    padding: 3rem;
+    >ul{
+        font-size: 1.3rem;
+        >li{
+            margin-bottom: 1rem;
+        }
+    }
+}
