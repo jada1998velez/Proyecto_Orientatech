@@ -49,3 +49,7 @@ Como último punto a mejorar, con los datos suficientes, se podría implementar 
 
 ## Agradecimientos
 Se agradece a todo el alumnado y ex-alumnado que se ha prestado voluntario para a la realización de estos cuestionarios, además de a los profesores que han sido de gran ayuda para la difusión de los mismos.
+
+## Licencia
+
+<p xmlns:cc="http://creativecommons.org/ns#" >Este trabajo tiene la licencia <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref= selecter-v1" target="_blank" rel="licencia noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left:3px ;alineación-vertical:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text -abajo;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text -abajo;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text -abajo;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p>
