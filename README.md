@@ -35,7 +35,7 @@ Todos los archivos y tecnologías utilizadas en el proyecto se encuentran en est
 La documentación para la realización del proyecto la encontraremos en el archivo [documentación]() que se encuentra en el repositorio
 
 ## Presentación
-Para poder ver en formato presentación la creación del proyecto podemos descargar el apartado [presentación]() de nuestro repositorio o bien podemos acceder vía web a través de [este]("https://docs.google.com/presentation/d/1dOY5y9bLXMLjUZms1PoDo3-AOWTbgxQ_PcEHacbL1s4/edit?usp=sharing") enlace
+Para poder ver en formato presentación la creación del proyecto podemos descargar el apartado [presentación]() de nuestro repositorio o bien podemos acceder vía web a través de [este](https://docs.google.com/presentation/d/1dOY5y9bLXMLjUZms1PoDo3-AOWTbgxQ_PcEHacbL1s4/edit?usp=sharing) enlace
 
 ## Futuras mejoras
 
