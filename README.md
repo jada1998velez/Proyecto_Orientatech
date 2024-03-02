@@ -1,4 +1,4 @@
-# Proyecto Orientatech
+# Proyecto Big Data - Orientatech
 <img src="./images/logo.jpeg" width = 50%>
 
 ## Autores
