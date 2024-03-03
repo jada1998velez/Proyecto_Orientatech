@@ -32,10 +32,10 @@ Todos los archivos y tecnologías utilizadas en el proyecto se encuentran en est
 *  **Visualización**: En este directorio encontraremos el archivo de `Power BI`, además de un enlace para poder ver la opción *Service* de Power BI
 
 ## Documentación del proyecto
-La documentación para la realización del proyecto la encontraremos en el archivo [documentación]() que se encuentra en el repositorio
+La documentación para la realización del proyecto la encontraremos en el archivo [documentación](./Documentación_Proyecto_BD2_Orientatech_DATA.pdf) que se encuentra en el repositorio
 
 ## Presentación
-Para poder ver en formato presentación la creación del proyecto podemos descargar el apartado [presentación]() de nuestro repositorio o bien podemos acceder vía web a través de [este](https://docs.google.com/presentation/d/1uFpjTCxdINngAl7QsRy_xicaugmuwsti3V2s9cUWFrY/edit?usp=sharing) enlace
+Para poder ver en formato presentación la creación del proyecto podemos descargar el apartado [presentación](./Presentacion_Orientatech.pptx) de nuestro repositorio o bien podemos acceder vía web a través de [este](https://docs.google.com/presentation/d/1uFpjTCxdINngAl7QsRy_xicaugmuwsti3V2s9cUWFrY/edit?usp=sharing) enlace
 
 ## Futuras mejoras
 
